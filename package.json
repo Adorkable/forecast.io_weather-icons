@@ -1,0 +1,28 @@
+{
+  "name": "forecast.io_weather-icons",
+  "version": "0.1.0",
+  "description": "Translate Forecast.io API icons to weather-icons",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Adorkable/forecast.io_weather-icons.git"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "forecast.io",
+    "weather-icons",
+    "weather",
+    "icons"
+  ],
+  "author": "Ian G <yo.ian.g@gmail.com> (http://www.iangrossberg.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adorkable/forecast.io_weather-icons/issues"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
